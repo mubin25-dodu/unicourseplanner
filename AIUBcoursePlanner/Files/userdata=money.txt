@@ -15,10 +15,3 @@ sid-11
 Pass-11
 contact-111
 dep-CSE
-
-Name-Fatima
-sid-50170
-Pass-nai
-contact-fatima@nai
-dep-CSE
-
