@@ -89,7 +89,9 @@ This project can serve as a starting point for exploring:
 - **Database Management**: Replacing file handling with SQL databases for efficient data storage.
 - **Machine Learning for Course Recommendation**: Implementing AI-based suggestions for students.
 - **Cloud-Based Course Management**: Hosting the system online for wider accessibility.
-
+![Login](https://github.com/mubin25-dodu/unicourseplanner/blob/main/oop%20project%201/Images/Screenshot%202025-02-01%20061353.png)
+![Signup](https://github.com/mubin25-dodu/unicourseplanner/blob/main/oop%20project%201/Images/Screenshot%202025-02-01%20061420.png)
+![Home page](https://github.com/mubin25-dodu/unicourseplanner/blob/main/oop%20project%201/Images/Screenshot%202025-02-01%20061513.png)
 By working on this project, students and developers gain hands-on experience in Java development, preparing them for more advanced studies in **software engineering, data management, and artificial intelligence**.
 
 ---
@@ -107,8 +109,4 @@ By working on this project, students and developers gain hands-on experience in 
 - Adding **real-time course recommendations** based on AI.
 - Enhancing **user experience with better UI design**.
 
-This **README.md** is structured for GitHub and follows the given prompt. Let me know if you’d like any modifications! 🚀
-![Login](https://github.com/mubin25-dodu/unicourseplanner/blob/main/oop%20project%201/Images/Screenshot%202025-02-01%20061353.png)
-![Signup](https://github.com/mubin25-dodu/unicourseplanner/blob/main/oop%20project%201/Images/Screenshot%202025-02-01%20061420.png)
-![Home page](https://github.com/mubin25-dodu/unicourseplanner/blob/main/oop%20project%201/Images/Screenshot%202025-02-01%20061513.png)
 
