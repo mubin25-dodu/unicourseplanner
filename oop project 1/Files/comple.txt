@@ -1,0 +1,1 @@
+CourseY,C002,4,Prereq1B,C001,Tuesday,Thursday,02:00 PM,04:00 PM,Physics

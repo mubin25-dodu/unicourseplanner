@@ -1,0 +1,95 @@
+Course1
+C1
+3
+0
+0
+A
+Monday
+Wednesday
+9:00 AM
+11:00 AM
+DepartmentA
+
+Course2
+C2
+4
+0
+0
+B
+Tuesday
+Thursday
+1:00 PM
+3:00 PM
+DepartmentB
+
+Course3
+C3
+3
+C1
+C2
+C
+Monday
+Wednesday
+10:00 AM
+12:00 PM
+DepartmentC
+
+Course4
+C4
+4
+C3
+C1
+D
+Tuesday
+Thursday
+2:00 PM
+4:00 PM
+DepartmentD
+
+Course5
+C5
+3
+C2
+C3
+E
+Friday
+Saturday
+9:00 AM
+11:00 AM
+DepartmentE
+
+Course6
+C6
+4
+C5
+C4
+F
+Monday
+Wednesday
+1:00 PM
+3:00 PM
+DepartmentF
+
+Course7
+C7
+3
+C6
+C2
+G
+Tuesday
+Thursday
+11:00 AM
+1:00 PM
+DepartmentG
+
+Course8
+C8
+4
+C7
+C5
+H
+Friday
+Saturday
+1:00 PM
+3:00 PM
+DepartmentH
