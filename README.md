@@ -1,5 +1,5 @@
 
-[AIUB Course Planner](https://github.com/mubin25-dodu/unicourseplanner)
+#[AIUB Course Planner](https://github.com/mubin25-dodu/unicourseplanner)
 
 
 ## Introduction
