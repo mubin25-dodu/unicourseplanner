@@ -100,7 +100,7 @@ By working on this project, students and developers gain hands-on experience in 
 ## How to Run the Project
 1. Clone the repository:
    ```bash
-   git clone [<repository-url>](https://github.com/mubin25-dodu/unicourseplanner.git)
+   git clone (https://github.com/mubin25-dodu/unicourseplanner.git)
    ```
 2. Open the project in an IDE (Eclipse or IntelliJ IDEA).
 3. Compile and run the `AIUBCoursePlanner.java` file.
