@@ -1,5 +1,6 @@
 
-# AIUB Course Planner
+[AIUB Course Planner](https://example.com](https://github.com/mubin25-dodu/unicourseplanner)
+
 
 ## Introduction
 **AIUB Course Planner** is a Java-based application designed to help students and administrators manage university courses efficiently. The system provides features such as user authentication, course management, and a user-friendly interface. It is aimed at streamlining the course selection process while ensuring ease of access to course-related data.
